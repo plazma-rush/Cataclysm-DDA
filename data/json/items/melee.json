@@ -59,8 +59,8 @@
     "weight": 908,
     "volume": 6,
     "bashing": 14,
-    "techniques": [ "WBLOCK_1" ],
-    "flags": [ "SPEAR", "REACH_ATTACK", "SHEATH_SPEAR" ],
+    "techniques": [ "WBLOCK_1", "SHEATH_SPEAR" ],
+    "flags": [ "SPEAR", "REACH_ATTACK" ],
     "cutting": 8,
     "qualities": [ [ "COOK", 1 ] ]
   },
